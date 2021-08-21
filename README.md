@@ -7,9 +7,9 @@ Testing the apps first...
 JAVA is 'ready for action' on your system (but deb packages won't work for you). 
 Just download the Java Archives (JAR) and start from there. 
 
-    java -jar smonitor.jar
+    java -jar SMonitor.jar -v
     
-    java -jar ttimer.jar
+    java -jar ttimer.jar -v
     
 
 # .deb packages
